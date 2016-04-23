@@ -5,3 +5,4 @@ Easy to configure XMPP→IRC bridge. Simply configure config.yml to your liking 
 - Having a user in IRC "jordan" and user in XMPP "jordan_" causes a third user "jordan__" to appear in XMPP, duplicating all of "jordan_'s" messages.
 - Random errors all over the place
 - Can currently only join one hard coded channel.
+- Currently connects to a conference server. Have an option to host its own possibly?
