@@ -1,0 +1,15 @@
+xirc:
+  jabber:
+    jid: xirc@jabberzac.org
+    resource: listener
+    password: somepassword
+    conference:
+      server: conference.jabberzac.org
+      prefix: 'mitb_'
+    nick: xirc
+  irc:
+    network: irc.moparisthebest.com
+    port: 6697
+    nick: xirc
+    channels:
+      - '#mopar'
